@@ -1,6 +1,5 @@
 /*
 Projet - Ruche connecté :
-Groupe : Ampindo Sagara, El-arbi Idembarek, Meggazi Asmae, Mahinda Youssef
 EI2I 4 (II) 
 
 */
